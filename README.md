@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Blog](https://jimmy-zx.github.io/)
+
 <!--
 **jimmy-zx/jimmy-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
